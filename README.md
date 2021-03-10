@@ -6,7 +6,7 @@ Remondes Game - Encontre as Diferenças (Version 1.0) (Windows)
 Find the differences. System Requirements: DirectX & .NET Framework 2.0 or higher.
 
 
-- PORTUGUESE VERSION -
+- PORTUGUESE VERSION
 
 
 © 2013 - GECA soft
